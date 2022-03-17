@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: #fa8072;
+  padding: 0 10%;
+  color: white;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  padding-right: 10px;
+  font-weight: bold;
+}
